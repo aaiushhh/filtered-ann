@@ -1,0 +1,33 @@
+experiment: E1b
+name: filter_structure_microbenchmarks_repair_pass
+parameters:
+  N: [10000000, 100000000, 1000000000]
+  sigma: [0.001, 0.01]
+  structures:
+    - name: bitmap
+      bits_per_entry: 1
+    - name: hash_set
+      variant: open_addressing
+    - name: bloom_standard
+      bits_per_entry: 10
+    - name: bloom_blocked
+      variant: fixed_splitmix64
+      bits_per_entry: 10
+    - name: cuckoo
+      fingerprint_bits: [12, 16]
+    - name: xor
+      fingerprint_bits: [8, 16]
+  probe_patterns:
+    - uniform_random
+    - neighbor_list_32
+    - sequential_32
+  repeats: 5
+  warmup_repeats: 1
+  canary_drift_rerun_threshold: 0.05
+  pinning:
+    selected_setting: "Setting 2 (Host-side P-Core restricted affinity 0x0FFF via PowerShell + guest pinned to CPU 0)"
+    host_affinity_mask: "0x0FFF (4095)"
+    guest_pinned_cpu: 0
+  mixed_pressure_test:
+    stand_in_vector_array_bytes: 1073741824  # 1 GB
+    structures: [bitmap, hash_set, xor_8, cuckoo_16, bloom_blocked_b10]

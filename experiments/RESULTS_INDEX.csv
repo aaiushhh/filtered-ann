@@ -1,3 +1,4 @@
 run_id,exp_id,date,git_hash,config_hash,raw_path,status
 run_E0_env_gt_correctness,E0,2026-10-31,2426c235c3b736e0069b7663f4c31d052c443148,1fe4af11af23de82,experiments/results/E0/env.json,PASS
 run_E1_filter_microbenchmarks,E1,2026-10-31,781518ff48c671cdf412086dbf9eb5adf75e41d0,b01b31b30a6d93b3,experiments/results/E1/raw.csv,PASS
+run_E1b_repair_grid_mixed,E1b,2026-10-31,3c994ab1ee10a688e454e02e919c5face92ccdae,af7b87fabd8a49ce,experiments/results/E1b/raw_e1b.csv,PASS

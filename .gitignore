@@ -47,6 +47,10 @@ experiments/data/*
 *.exe
 *.out
 experiments/harness/run_e1_benchmarks
+experiments/harness/run_e1b_benchmarks
+experiments/harness/run_mixed_pressure
+experiments/harness/run_canary_loop
+experiments/harness/test_blocked_bloom_unit
 experiments/harness/timer_noise
 tools/check_cpus
 tools/diagnose_timer

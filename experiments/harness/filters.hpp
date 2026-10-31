@@ -27,6 +27,13 @@ inline void get_two_hashes(uint64_t val, uint64_t& h1, uint64_t& h2) {
     if (h2 == 0) h2 = 1;
 }
 
+inline uint64_t splitmix64(uint64_t x) {
+    x += 0x9e3779b97f4a7c15ULL;
+    x = (x ^ (x >> 30)) * 0xbf58476d1ce4e5b9ULL;
+    x = (x ^ (x >> 27)) * 0x94d049bb133111ebULL;
+    return x ^ (x >> 31);
+}
+
 // ============================================================================
 // 1. Exact Filters
 // ============================================================================
@@ -212,23 +219,25 @@ public:
     }
 
     void insert(uint32_t val) {
-        uint64_t h1, h2;
-        get_two_hashes(val, h1, h2);
-        size_t block_idx = h1 % num_blocks;
+        uint64_t h = splitmix64(static_cast<uint64_t>(val));
+        size_t block_idx = h % num_blocks;
         Block512& blk = blocks[block_idx];
+        uint64_t s = h;
         for (size_t i = 0; i < k_hashes; ++i) {
-            uint64_t bit_in_block = (h2 + i * 0x9e3779b97f4a7c15ULL) & 511; // 0 to 511
+            s = splitmix64(s);
+            uint64_t bit_in_block = s & 511ULL;
             blk.words[bit_in_block / 64] |= (1ULL << (bit_in_block % 64));
         }
     }
 
     bool contains(uint32_t val) const {
-        uint64_t h1, h2;
-        get_two_hashes(val, h1, h2);
-        size_t block_idx = h1 % num_blocks;
+        uint64_t h = splitmix64(static_cast<uint64_t>(val));
+        size_t block_idx = h % num_blocks;
         const Block512& blk = blocks[block_idx];
+        uint64_t s = h;
         for (size_t i = 0; i < k_hashes; ++i) {
-            uint64_t bit_in_block = (h2 + i * 0x9e3779b97f4a7c15ULL) & 511;
+            s = splitmix64(s);
+            uint64_t bit_in_block = s & 511ULL;
             if (!(blk.words[bit_in_block / 64] & (1ULL << (bit_in_block % 64)))) {
                 return false;
             }
