@@ -1,0 +1,371 @@
+[
+  {
+    "bibkey": "dillinger2021ribbon",
+    "topic": 1,
+    "title": "Ribbon filter: practically smaller than Bloom and Xor",
+    "authors": "Peter C. Dillinger, Stefan Walzer",
+    "venue": "arXiv preprint",
+    "year": "2021",
+    "doi": "",
+    "arxiv_id": "2103.02515",
+    "link": "https://arxiv.org/abs/2103.02515",
+    "cited_by": [
+      "cuckoogpu2026",
+      "maplets2025"
+    ],
+    "cite_count": 2,
+    "in_survey": false,
+    "oa_status": "OK",
+    "pdf_source": "arxiv",
+    "source_url": "https://arxiv.org/pdf/2103.02515.pdf"
+  },
+  {
+    "bibkey": "pagh2004cuckoo",
+    "topic": 1,
+    "title": "Cuckoo hashing",
+    "authors": "Pagh, Rasmus, Rodler, Flemming Friche",
+    "venue": "Journal of Algorithms",
+    "year": "2004",
+    "doi": "10.1016/j.jalgor.2003.12.002",
+    "arxiv_id": "",
+    "link": "https://doi.org/10.1016/j.jalgor.2003.12.002",
+    "cited_by": [
+      "cftrag2025",
+      "cuckoogpu2026",
+      "eppstein2016cuckoo",
+      "fan2014cuckoo",
+      "graf2020xor",
+      "mitzenmacher2017adaptive"
+    ],
+    "cite_count": 6,
+    "in_survey": true,
+    "oa_status": "PAYWALLED",
+    "pdf_source": "manual",
+    "source_url": "https://doi.org/10.1016/j.jalgor.2003.12.002"
+  },
+  {
+    "bibkey": "broder2004network",
+    "topic": 1,
+    "title": "Network Applications of Bloom Filters: A Survey",
+    "authors": "Broder, Andrei, Mitzenmacher, Michael",
+    "venue": "Internet Mathematics",
+    "year": "2004",
+    "doi": "10.1080/15427951.2004.10129096",
+    "arxiv_id": "",
+    "link": "https://doi.org/10.1080/15427951.2004.10129096",
+    "cited_by": [
+      "indyk1998approximate",
+      "maplets2025"
+    ],
+    "cite_count": 2,
+    "in_survey": false,
+    "oa_status": "PAYWALLED",
+    "pdf_source": "manual",
+    "source_url": "https://doi.org/10.1080/15427951.2004.10129096"
+  },
+  {
+    "bibkey": "mitzenmacher2018model",
+    "topic": 1,
+    "title": "The effect of transmission-line dynamics on grid-forming dispatchable virtual oscillator control",
+    "authors": "Dominic Gro\u00df, Marcello Colombino, Jean-S\u00e9bastien Brouillon, Florian D\u00f6rfler",
+    "venue": "arXiv preprint",
+    "year": "2018",
+    "doi": "",
+    "arxiv_id": "1802.08881",
+    "link": "https://arxiv.org/abs/1802.08881",
+    "cited_by": [
+      "kraska2018learned",
+      "matsui2025lotusfilter"
+    ],
+    "cite_count": 2,
+    "in_survey": false,
+    "oa_status": "OK",
+    "pdf_source": "arxiv",
+    "source_url": "https://arxiv.org/pdf/1802.08881.pdf"
+  },
+  {
+    "bibkey": "zhang2018surf",
+    "topic": 1,
+    "title": "SuRF",
+    "authors": "Zhang, Huanchen, Lim, Hyeontaek, Leis, Viktor, Andersen, David G., Kaminsky, Michael, Keeton, Kimberly, Pavlo, Andrew",
+    "venue": "Proceedings of the 2018 International Conference on Management of Data",
+    "year": "2018",
+    "doi": "10.1145/3183713.3196931",
+    "arxiv_id": "",
+    "link": "https://doi.org/10.1145/3183713.3196931",
+    "cited_by": [
+      "pipeannfilter2026"
+    ],
+    "cite_count": 1,
+    "in_survey": false,
+    "oa_status": "PAYWALLED",
+    "pdf_source": "manual",
+    "source_url": "https://doi.org/10.1145/3183713.3196931"
+  },
+  {
+    "bibkey": "gupta2023caps",
+    "topic": 2,
+    "title": "CAPS: A Practical Partition Index for Filtered Similarity Search",
+    "authors": "Gaurav Gupta, Jonah Yi, Benjamin Coleman, Chen Luo, Vihan Lakshman, Anshumali Shrivastava",
+    "venue": "arXiv preprint",
+    "year": "2023",
+    "doi": "",
+    "arxiv_id": "2308.15014",
+    "link": "https://arxiv.org/abs/2308.15014",
+    "cited_by": [
+      "filteraware2025",
+      "routing2026query"
+    ],
+    "cite_count": 2,
+    "in_survey": true,
+    "oa_status": "OK",
+    "pdf_source": "arxiv",
+    "source_url": "https://arxiv.org/pdf/2308.15014.pdf"
+  },
+  {
+    "bibkey": "zuo2023arkgraph",
+    "topic": 2,
+    "title": "GriDB: Scaling Blockchain Database via Sharding and Off-Chain Cross-Shard Mechanism",
+    "authors": "Hong, Zicong, Guo, Song, Zhou, Enyuan, Chen, Wuhui, Huang, Huawei, Zomaya, Albert",
+    "venue": "Proceedings of the VLDB Endowment",
+    "year": "2023",
+    "doi": "10.14778/3587136.3587143",
+    "arxiv_id": "",
+    "link": "https://doi.org/10.14778/3587136.3587143",
+    "cited_by": [
+      "rangefilters2026",
+      "zuo2024serf"
+    ],
+    "cite_count": 2,
+    "in_survey": false,
+    "oa_status": "OK",
+    "pdf_source": "vldb.org",
+    "source_url": "https://www.vldb.org/pvldb/vol14778/3587136"
+  },
+  {
+    "bibkey": "zheng2025digra",
+    "topic": 2,
+    "title": "CRDV: Conflict-free Replicated Data Views",
+    "authors": "Faria, Nuno, Pereira, Jos\u00e9",
+    "venue": "Proceedings of the ACM on Management of Data",
+    "year": "2025",
+    "doi": "10.1145/3709675",
+    "arxiv_id": "",
+    "link": "https://doi.org/10.1145/3709675",
+    "cited_by": [
+      "zhang2025dynamic",
+      "zou2026rnsg"
+    ],
+    "cite_count": 2,
+    "in_survey": false,
+    "oa_status": "PAYWALLED",
+    "pdf_source": "manual",
+    "source_url": "https://doi.org/10.1145/3709675"
+  },
+  {
+    "bibkey": "li2025sieve",
+    "topic": 2,
+    "title": "High-order and Mass-conservative Regularized Implicit-explicit relaxation Runge-Kutta methods for the logarithmic Schr\u00f6dinger equation",
+    "authors": "Jingye Yan, Hong Zhang, Yabing Wei, Xu Qian",
+    "venue": "arXiv preprint",
+    "year": "2024",
+    "doi": "",
+    "arxiv_id": "2411.08271",
+    "link": "https://arxiv.org/abs/2411.08271",
+    "cited_by": [
+      "pipeannfilter2026",
+      "routing2026query",
+      "wang2021milvus"
+    ],
+    "cite_count": 3,
+    "in_survey": false,
+    "oa_status": "OK",
+    "pdf_source": "arxiv",
+    "source_url": "https://arxiv.org/pdf/2411.08271.pdf"
+  },
+  {
+    "bibkey": "zhang2023vbase",
+    "topic": 3,
+    "title": "The Riemannian Bianchi identities of metric connections with skew torsion and generalized Ricci solitons",
+    "authors": "Stefan Ivanov, Nikola Stanchev",
+    "venue": "arXiv preprint",
+    "year": "2023",
+    "doi": "",
+    "arxiv_id": "2307.03986",
+    "link": "https://arxiv.org/abs/2307.03986",
+    "cited_by": [
+      "filtered2026system",
+      "survey2025filtered",
+      "zhang2025dynamic"
+    ],
+    "cite_count": 3,
+    "in_survey": true,
+    "oa_status": "OK",
+    "pdf_source": "arxiv",
+    "source_url": "https://arxiv.org/pdf/2307.03986.pdf"
+  },
+  {
+    "bibkey": "xu2024multifilterann",
+    "topic": 3,
+    "title": "Efficient Image-to-Image Diffusion Classifier for Adversarial Robustness",
+    "authors": "Hefei Mei, Minjing Dong, Chang Xu",
+    "venue": "arXiv preprint",
+    "year": "2024",
+    "doi": "",
+    "arxiv_id": "2408.08502",
+    "link": "https://arxiv.org/abs/2408.08502",
+    "cited_by": [],
+    "cite_count": 0,
+    "in_survey": false,
+    "oa_status": "OK",
+    "pdf_source": "arxiv",
+    "source_url": "https://arxiv.org/pdf/2408.08502.pdf"
+  },
+  {
+    "bibkey": "johnson2019billion",
+    "topic": 4,
+    "title": "Billion-Scale Similarity Search with GPUs",
+    "authors": "Johnson, Jeff, Douze, Matthijs, Jegou, Herve",
+    "venue": "IEEE Transactions on Big Data",
+    "year": "2021",
+    "doi": "10.1109/TBDATA.2019.2921572",
+    "arxiv_id": "1702.08734",
+    "link": "https://doi.org/10.1109/tbdata.2019.2921572",
+    "cited_by": [
+      "curator2026",
+      "filtered2026system",
+      "graf2020xor",
+      "indyk1998approximate",
+      "maplets2025",
+      "wang2021milvus",
+      "wu2022hqann"
+    ],
+    "cite_count": 7,
+    "in_survey": true,
+    "oa_status": "OK",
+    "pdf_source": "arxiv",
+    "source_url": "https://arxiv.org/pdf/1702.08734.pdf"
+  },
+  {
+    "bibkey": "ren2020hmann",
+    "topic": 4,
+    "title": "Constructing Driver Hamiltonians for Optimization Problems with Linear Constraints",
+    "authors": "Hannes Leipold, Federico M. Spedalieri",
+    "venue": "arXiv preprint",
+    "year": "2020",
+    "doi": "",
+    "arxiv_id": "2006.12028",
+    "link": "https://arxiv.org/abs/2006.12028",
+    "cited_by": [
+      "chen2021spann"
+    ],
+    "cite_count": 1,
+    "in_survey": false,
+    "oa_status": "OK",
+    "pdf_source": "arxiv",
+    "source_url": "https://arxiv.org/pdf/2006.12028.pdf"
+  },
+  {
+    "bibkey": "fu2019nsg",
+    "topic": 5,
+    "title": "Fast Approximate Nearest Neighbor Search With The Navigating Spreading-out Graph",
+    "authors": "Cong Fu, Chao Xiang, Changxu Wang, Deng Cai",
+    "venue": "arXiv preprint",
+    "year": "2017",
+    "doi": "",
+    "arxiv_id": "1707.00143",
+    "link": "https://arxiv.org/abs/1707.00143",
+    "cited_by": [
+      "beam2025distance",
+      "chen2021spann",
+      "subramanya2019diskann",
+      "zou2026rnsg"
+    ],
+    "cite_count": 4,
+    "in_survey": true,
+    "oa_status": "OK",
+    "pdf_source": "arxiv",
+    "source_url": "https://arxiv.org/pdf/1707.00143.pdf"
+  },
+  {
+    "bibkey": "prokhorenkova2020graph",
+    "topic": 5,
+    "title": "On Uniform Convergence and Low-Norm Interpolation Learning",
+    "authors": "Lijia Zhou, Danica J. Sutherland, Nathan Srebro",
+    "venue": "arXiv preprint",
+    "year": "2020",
+    "doi": "",
+    "arxiv_id": "2006.05942",
+    "link": "https://arxiv.org/abs/2006.05942",
+    "cited_by": [
+      "chen2021spann"
+    ],
+    "cite_count": 1,
+    "in_survey": false,
+    "oa_status": "OK",
+    "pdf_source": "arxiv",
+    "source_url": "https://arxiv.org/pdf/2006.05942.pdf"
+  },
+  {
+    "bibkey": "indyk2023worst",
+    "topic": 5,
+    "title": "Enhanced sensitivity distributed sensing of magnetic fields in optical fiber using random Bragg grating",
+    "authors": "Antoine Leymonerie, Jean-Sebastien Boisvert, Leonie Juszczak, Sebastien Loranger",
+    "venue": "arXiv preprint",
+    "year": "2023",
+    "doi": "10.1364/OPTCON.509943",
+    "arxiv_id": "2310.17030",
+    "link": "https://arxiv.org/abs/2310.17030",
+    "cited_by": [
+      "beam2025distance",
+      "filteraware2025",
+      "indyk1998approximate",
+      "lshlowerbounds2005",
+      "wang2021milvus"
+    ],
+    "cite_count": 5,
+    "in_survey": true,
+    "oa_status": "OK",
+    "pdf_source": "arxiv",
+    "source_url": "https://arxiv.org/pdf/2310.17030.pdf"
+  },
+  {
+    "bibkey": "diwan2024navigable",
+    "topic": 5,
+    "title": "DualBind: A Dual-Loss Framework for Protein-Ligand Binding Affinity Prediction",
+    "authors": "Meng Liu, Saee Gopal Paliwal",
+    "venue": "arXiv preprint",
+    "year": "2024",
+    "doi": "",
+    "arxiv_id": "2406.07770",
+    "link": "https://arxiv.org/abs/2406.07770",
+    "cited_by": [
+      "beam2025distance"
+    ],
+    "cite_count": 1,
+    "in_survey": false,
+    "oa_status": "OK",
+    "pdf_source": "arxiv",
+    "source_url": "https://arxiv.org/pdf/2406.07770.pdf"
+  },
+  {
+    "bibkey": "datar2004locality",
+    "topic": 5,
+    "title": "Locality-sensitive hashing scheme based on p-stable distributions",
+    "authors": "Datar, Mayur, Immorlica, Nicole, Indyk, Piotr, Mirrokni, Vahab S.",
+    "venue": "Proceedings of the twentieth annual symposium on Computational geometry",
+    "year": "2004",
+    "doi": "10.1145/997817.997857",
+    "arxiv_id": "",
+    "link": "https://doi.org/10.1145/997817.997857",
+    "cited_by": [
+      "filteraware2025",
+      "lshlowerbounds2005"
+    ],
+    "cite_count": 2,
+    "in_survey": false,
+    "oa_status": "PAYWALLED",
+    "pdf_source": "manual",
+    "source_url": "https://doi.org/10.1145/997817.997857"
+  }
+]

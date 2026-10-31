@@ -1,0 +1,261 @@
+{
+  "bloom1970space": {
+    "authors": "Burton H. Bloom",
+    "venue": "Communications of the ACM",
+    "year": "1970",
+    "doi": "10.1145/362686.362692",
+    "status": "PUB"
+  },
+  "fan2014cuckoo": {
+    "authors": "Bin Fan, Dave G. Andersen, Michael Kaminsky, Michael D. Mitzenmacher",
+    "venue": "CoNEXT 2014",
+    "year": "2014",
+    "doi": "10.1145/2674005.2674994",
+    "status": "PUB"
+  },
+  "eppstein2016cuckoo": {
+    "authors": "David Eppstein",
+    "venue": "SWAT 2016 (LIPIcs Vol 53)",
+    "year": "2016",
+    "doi": "10.4230/LIPIcs.SWAT.2016.8",
+    "status": "PUB"
+  },
+  "graf2020xor": {
+    "authors": "Thomas Mueller Graf, Daniel Lemire",
+    "venue": "ACM Journal of Experimental Algorithmics",
+    "year": "2020",
+    "doi": "10.1145/3376122",
+    "status": "PUB"
+  },
+  "mitzenmacher2017adaptive": {
+    "authors": "Michael Mitzenmacher, Salvatore Pontarelli, Pedro Reviriego",
+    "venue": "ACM Journal of Experimental Algorithmics (JEA) 2020 / ALENEX 2018",
+    "year": "2017",
+    "doi": "10.1145/3339504",
+    "status": "PUB"
+  },
+  "maplets2025": {
+    "authors": "Bender, Michael A., Conway, Alex, Farach-Colton, Mart\u00edn, Johnson, Rob, Pandey, Prashant",
+    "venue": "not stated",
+    "year": "2025",
+    "doi": "none",
+    "status": "PRE"
+  },
+  "kraska2018learned": {
+    "authors": "Tim Kraska, Alex Beutel, Ed H. Chi, Jeffrey Dean, Neoklis Polyzotis",
+    "venue": "SIGMOD 2018",
+    "year": "2018",
+    "doi": "10.1145/3183713.3196909",
+    "status": "PUB"
+  },
+  "indyk1998approximate": {
+    "authors": "Piotr Indyk, Rajeev Motwani",
+    "venue": "STOC 1998",
+    "year": "1998",
+    "doi": "10.1145/276698.276876",
+    "status": "PUB"
+  },
+  "pla2025learned": {
+    "authors": "Qin, Jiayong, Zhu, Xianyu, Liu, Qiyu, Zhang, Guangyi, Cai, Zhigang, Liao, Jianwei, Hu, Sha, Peng, Jingshu, Shao, Yingxia, Chen, Lei",
+    "venue": "not stated",
+    "year": "2025",
+    "doi": "none",
+    "status": "PRE"
+  },
+  "superseding2019learning": {
+    "authors": "Vinciguerra, Giorgio, Ferragina, Paolo, Miccinesi, Michele",
+    "venue": "not stated",
+    "year": "2019",
+    "doi": "none",
+    "status": "PRE"
+  },
+  "lshlowerbounds2005": {
+    "authors": "Motwani, Rajeev, Naor, Assaf, Panigrahy, Rina",
+    "venue": "SIAM Journal on Discrete Mathematics",
+    "year": "2007",
+    "doi": "10.1137/050646858",
+    "status": "PUB"
+  },
+  "malkov2020hnsw": {
+    "authors": "Yu A. Malkov, D. A. Yashunin",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "year": "2020",
+    "doi": "10.1109/TPAMI.2018.2889473",
+    "status": "PUB"
+  },
+  "subramanya2019diskann": {
+    "authors": "Jayaram Subramanya, Suhas, Devvrit, Fnu, Simhadri, Harsha Vardhan, Krishnawamy, Ravishankar, Kadekodi, Rohan",
+    "venue": "NeurIPS 2019",
+    "year": "2019",
+    "doi": "none",
+    "status": "PUB"
+  },
+  "chen2021spann": {
+    "authors": "Chen, Qi, Zhao, Bing, Wang, Haidong, Li, Mingqin, Liu, Chuanjie, Li, Zengzhong, Yang, Mao, Wang, Jingdong",
+    "venue": "NeurIPS 2021",
+    "year": "2021",
+    "doi": "none",
+    "status": "PUB"
+  },
+  "beam2025distance": {
+    "authors": "Al-Jazzazi, Yousef, Diwan, Haya, Gou, Jinrui, Musco, Cameron, Musco, Christopher, Suel, Torsten",
+    "venue": "NeurIPS 2025 (Advances in Neural Information Processing Systems 38)",
+    "year": "2025",
+    "doi": "10.52202/085713-3346",
+    "status": "PUB"
+  },
+  "manohar2025range": {
+    "authors": "Manohar, Magdalen Dobson, Kim, Taekseung, Blelloch, Guy E.",
+    "venue": "not stated",
+    "year": "2025",
+    "doi": "none",
+    "status": "PRE"
+  },
+  "survey2025filtered": {
+    "authors": "Lin, Yanjun, Zhang, Kai, He, Zhenying, Jing, Yinan, Wang, X. Sean",
+    "venue": "not stated",
+    "year": "2025",
+    "doi": "none",
+    "status": "PRE"
+  },
+  "filtered2026system": {
+    "authors": "Amanbayev, Abylay, Tsan, Brian, Dang, Tri, Rusu, Florin",
+    "venue": "not stated",
+    "year": "2026",
+    "doi": "none",
+    "status": "PRE"
+  },
+  "routing2026query": {
+    "authors": "Xiong, Qianqian, Zhang, Mengxuan",
+    "venue": "not stated",
+    "year": "2026",
+    "doi": "none",
+    "status": "PRE"
+  },
+  "curator2026": {
+    "authors": "Jin, Yicheng, Wu, Yongji, Hu, Wenjun, Maggs, Bruce M., Yang, Jun, Zhang, Xiao, Zhuo, Danyang",
+    "venue": "Proceedings of the ACM on Management of Data (PACMMOD)",
+    "year": "2026",
+    "doi": "10.1145/3786635",
+    "status": "PUB"
+  },
+  "filteraware2025": {
+    "authors": "Sutradhar, Ananya, Gupta, Suryansh, Krishnaswamy, Ravishankar, Xu, Haiyang, Rastogi, Aseem, Srinivasa, Gopal",
+    "venue": "not stated",
+    "year": "2025",
+    "doi": "none",
+    "status": "PRE"
+  },
+  "rangefilters2026": {
+    "authors": "Tao, Qian, Jiang, Yuntao, Tong, Yongxin, Sun, Yu",
+    "venue": "not stated",
+    "year": "2026",
+    "doi": "none",
+    "status": "PRE"
+  },
+  "matsui2025lotusfilter": {
+    "authors": "Yusuke Matsui",
+    "venue": "CVPR 2025",
+    "year": "2025",
+    "doi": "10.1109/cvpr52734.2025.02833",
+    "status": "PUB"
+  },
+  "pipeannfilter2026": {
+    "authors": "Guo, Hao, Shu, Jiwu, Lu, Youyou",
+    "venue": "not stated",
+    "year": "2026",
+    "doi": "none",
+    "status": "PRE"
+  },
+  "cftrag2025": {
+    "authors": "Li, Zihang, Ruan, Yangdong, Liu, Wenjun, Wang, Zhengyang, Yang, Tong",
+    "venue": "not stated",
+    "year": "2025",
+    "doi": "none",
+    "status": "PRE"
+  },
+  "bridgerag2026": {
+    "authors": "Li, Zihang, Liu, Wenjun, Zong, Yikun, Tao, Jiawen, Dai, Siying, Ren, Songcheng, Liu, Zirui, Wang, Yuhang, Jiang, Yanbing, Yang, Tong",
+    "venue": "not stated",
+    "year": "2026",
+    "doi": "none",
+    "status": "PRE"
+  },
+  "cuckoogpu2026": {
+    "authors": "Dortmann, Tim, Vieth, Markus, Schmidt, Bertil",
+    "venue": "ICPP 2026 (Proceedings of the 55th International Conference on Parallel Processing)",
+    "year": "2026",
+    "doi": "10.1145/3832810.3832822",
+    "status": "PUB"
+  },
+  "gollapudi2023filtereddiskann": {
+    "authors": "Siddharth Gollapudi, Neel Karia, Varun Sivashankar, Ravishankar Krishnaswamy, Nikit Begwani, Swapnil Raz, Yiyong Lin, Yin Zhang, Neelam Mahapatro, Premkumar Srinivasan, Amit Singh, Harsha Vardhan Simhadri",
+    "venue": "Proceedings of the ACM Web Conference 2023 (WWW 2023)",
+    "year": "2023",
+    "doi": "10.1145/3543507.3583552",
+    "status": "PUB"
+  },
+  "patel2024acorn": {
+    "authors": "Liana Patel, Peter Kraft, Carlos Guestrin, Matei Zaharia",
+    "venue": "Proceedings of the ACM on Management of Data (PACMMOD / SIGMOD 2024)",
+    "year": "2024",
+    "doi": "10.1145/3654923",
+    "status": "PUB"
+  },
+  "luo2025tagfiltered": {
+    "authors": "Jiarui Luo, Miao Qiao, Chaoji Zuo, Dong Deng",
+    "venue": "2025 IEEE 41st International Conference on Data Engineering (ICDE 2025)",
+    "year": "2025",
+    "doi": "10.1109/icde65448.2025.00272",
+    "status": "PUB"
+  },
+  "wu2022hqann": {
+    "authors": "Wei Wu, Junlin He, Yu Qiao, Guoheng Fu, Li Liu, Jin Yu",
+    "venue": "Proceedings of the 31st ACM International Conference on Information & Knowledge Management (CIKM 2022)",
+    "year": "2022",
+    "doi": "10.1145/3511808.3557610",
+    "status": "PUB"
+  },
+  "cai2024navigating": {
+    "authors": "Yuzheng Cai, Jiayang Shi, Yizhuo Chen, Weiguo Zheng",
+    "venue": "Proceedings of the ACM on Management of Data (PACMMOD / SIGMOD 2024)",
+    "year": "2024",
+    "doi": "10.1145/3698822",
+    "status": "PUB"
+  },
+  "zuo2024serf": {
+    "authors": "Chaoji Zuo, Miao Qiao, Wenchao Zhou, Feifei Li, Dong Deng",
+    "venue": "Proceedings of the ACM on Management of Data (PACMMOD / SIGMOD 2024)",
+    "year": "2024",
+    "doi": "10.1145/3639324",
+    "status": "PUB"
+  },
+  "zhang2025dynamic": {
+    "authors": "Fangyuan Zhang, Mengxu Jiang, Guanhao Hou, Jieming Shi, Hua Fan, Wenchao Zhou, Feifei Li, Sibo Wang",
+    "venue": "Proceedings of the ACM on Management of Data (PACMMOD / SIGMOD 2025)",
+    "year": "2025",
+    "doi": "10.1145/3725401",
+    "status": "PUB"
+  },
+  "zou2026rnsg": {
+    "authors": "Zhiqiu Zou, Ziqi Yin, Rong-Hua Li, Hongchao Qin, Qiangqiang Dai, Guoren Wang",
+    "venue": "Proceedings of the VLDB Endowment (PVLDB 2026)",
+    "year": "2026",
+    "doi": "10.14778/3828612.3828636",
+    "status": "PUB"
+  },
+  "wang2021milvus": {
+    "authors": "Jianguo Wang, Xiaomeng Yi, Rentong Guo, Hai Jin, Peng Xu, Shengjun Li, Xiangyu Wang, Xiangzhou Guo, Chengming Li, Xiaohai Xu, Kun Yu, Yuxing Yuan, Yinghao Zou, Jiquan Long, Yudong Cai, Zhenxiang Li, Zhifeng Zhang, Yihua Mo, Jun Gu, Ruiyi Jiang, Yi Wei, Charles Xie",
+    "venue": "Proceedings of the 2021 International Conference on Management of Data (SIGMOD 2021)",
+    "year": "2021",
+    "doi": "10.1145/3448016.3457550",
+    "status": "PUB"
+  },
+  "shaikh2026annex": {
+    "authors": "Danish Nasir Shaikh",
+    "venue": "IgMin Research",
+    "year": "2026",
+    "doi": "10.61927/igmin365",
+    "status": "PUB"
+  }
+}

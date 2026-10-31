@@ -1,0 +1,22 @@
+[
+  {
+    "bibkey": "fan2014cuckoo",
+    "note_title": "Cuckoo Filter: Practically Better Than Bloom",
+    "api_title": "Cuckoo Filter"
+  },
+  {
+    "bibkey": "graf2020xor",
+    "note_title": "Xor Filters: Faster and Smaller Than Bloom and Cuckoo Filters",
+    "api_title": "Xor Filters"
+  },
+  {
+    "bibkey": "indyk1998approximate",
+    "note_title": "Approximate Nearest Neighbors: Towards Removing the Curse of Dimensionality",
+    "api_title": "Approximate nearest neighbors"
+  },
+  {
+    "bibkey": "wang2021milvus",
+    "note_title": "Milvus: A Purpose-Built Vector Data Management System",
+    "api_title": "Milvus"
+  }
+]

@@ -1,0 +1,27 @@
+timestamp,bibkey,url,status
+2026-10-29T11:32:36.806052+00:00,filtered2026system,https://arxiv.org/abs/2602.11443,200
+2026-10-29T11:32:38.570238+00:00,filteraware2025,https://arxiv.org/abs/2511.04073,200
+2026-10-29T11:32:38.963346+00:00,cftrag2025,https://arxiv.org/abs/2501.15098,200
+2026-10-29T11:32:39.171056+00:00,bridgerag2026,https://arxiv.org/abs/2603.26668,200
+2026-10-29T11:52:57.223671+00:00,chen2021spann,https://arxiv.org/pdf/2111.08566.pdf,OK (756701B)
+2026-10-29T11:53:05.567065+00:00,beam2025distance,https://arxiv.org/pdf/2505.15636.pdf,OK (2863616B)
+2026-10-29T11:53:29.370308+00:00,manohar2025range,https://arxiv.org/pdf/2502.13245.pdf,OK (4848656B)
+2026-10-29T11:54:33.470296+00:00,survey2025filtered,https://arxiv.org/pdf/2505.06501.pdf,OK (1576201B)
+2026-10-29T11:54:44.828263+00:00,filtered2026system,https://arxiv.org/pdf/2602.11443.pdf,OK (1210493B)
+2026-10-29T11:57:24.008615+00:00,routing2026query,https://arxiv.org/pdf/2606.19898,OK (2607882B)
+2026-10-29T11:57:41.431310+00:00,curator2026,https://arxiv.org/pdf/2601.01291,OK (1190048B)
+2026-10-29T11:57:47.608227+00:00,filteraware2025,https://arxiv.org/pdf/2511.04073,OK (489711B)
+2026-10-29T11:57:48.556186+00:00,rangefilters2026,https://arxiv.org/pdf/2607.00727,OK (3561144B)
+2026-10-29T11:58:14.637285+00:00,matsui2025lotusfilter,https://openaccess.thecvf.com/content/CVPR2025/papers/Matsui_LotusFilter_Fast_Diverse_Nearest_Neighbor_Search_via_a_Learned_Cutoff_CVPR_2025_paper.pdf,OK (1107507B)
+2026-10-29T11:58:17.237494+00:00,pipeannfilter2026,https://arxiv.org/pdf/2605.17992,OK (1261875B)
+2026-10-29T11:58:27.478084+00:00,cuckoogpu2026,https://arxiv.org/pdf/2603.15486,OK (895261B)
+2026-10-29T22:44:00+05:30,kraska2018learned,https://arxiv.org/pdf/1712.01208,200
+2026-10-29T22:45:00+05:30,zou2026rnsg,https://www.vldb.org/pvldb/vol19/p2839-zou.pdf,200
+2026-10-30T06:59:14.511940+00:00,prokhorenkova2020graph,https://arxiv.org/pdf/2006.05942,OK (357804B)
+2026-10-30T06:59:19.611573+00:00,diwan2024navigable,https://arxiv.org/pdf/2406.07770,OK (2305024B)
+2026-10-30T07:00:19.790280+00:00,indyk2023worst,https://arxiv.org/pdf/2310.17030,OK (936598B)
+2026-10-30T07:00:40.613175+00:00,li2025sieve,https://arxiv.org/pdf/2411.08271,OK (411981B)
+2026-10-30T07:00:45.545505+00:00,gupta2023caps,https://arxiv.org/pdf/2308.15014,OK (2209298B)
+2026-10-30T07:01:45.720352+00:00,xu2024multifilterann,https://arxiv.org/pdf/2408.08502,OK (767245B)
+2026-10-30T07:02:06.029652+00:00,zhang2023vbase,https://arxiv.org/pdf/2307.03986,OK (242456B)
+2026-10-30T07:02:10.360483+00:00,mitzenmacher2018model,https://arxiv.org/pdf/1901.00902,OK (453917B)

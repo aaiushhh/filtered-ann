@@ -1,0 +1,36 @@
+# ==============================================================================
+# Filtered ANN Research Repository - Git Ignore
+# ==============================================================================
+
+# 1. Academic & Copyrighted Materials
+# Raw downloaded PDFs and full-text extracts from publishers (ACM, IEEE, Springer, etc.)
+# are excluded to respect copyright and avoid repository bloat.
+papers/*.pdf
+papers/*.txt
+downloaded_paper/
+downloaded_papers/
+
+# 2. Scratch and Temporary Files
+scratch/
+tmp/
+*.tmp
+*.log
+tools/*.txt
+
+# 3. Python Bytecode & Environment
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# 4. OS & Editor Artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo

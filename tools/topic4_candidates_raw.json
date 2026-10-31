@@ -1,0 +1,415 @@
+[
+  {
+    "source": "Crossref",
+    "title": "Tiered Cache-HNSW: Using Hierarchical Caching System in HNSW",
+    "doi": "10.1109/icct-pacific63901.2025.11012786",
+    "venue": "2025 1st International Conference on Consumer Technology (ICCT-Pacific)",
+    "year": "2025",
+    "link": "https://doi.org/10.1109/icct-pacific63901.2025.11012786"
+  },
+  {
+    "source": "Crossref",
+    "title": "Compressed cache layout aware prefetching",
+    "doi": "10.70675/22db70b0z0f98z4fbez90cezf8c8729e2ea5",
+    "venue": "",
+    "year": "None",
+    "link": "https://doi.org/10.70675/22db70b0z0f98z4fbez90cezf8c8729e2ea5"
+  },
+  {
+    "source": "Crossref",
+    "title": "Adaptive Prefetching and Cache Partitioning for Multicore Processors",
+    "doi": "10.4995/thesis/10251/112423",
+    "venue": "",
+    "year": "None",
+    "link": "https://doi.org/10.4995/thesis/10251/112423"
+  },
+  {
+    "source": "Crossref",
+    "title": "Data Cache Prefetching",
+    "doi": "10.1201/9781420035155-14",
+    "venue": "Speculative Execution in High Performance Computer Architectures",
+    "year": "2005",
+    "link": "https://doi.org/10.1201/9781420035155-14"
+  },
+  {
+    "source": "Crossref",
+    "title": "Power and performance tradeoffs for data cache prefetching in low-power embedded systems",
+    "doi": "10.31274/rtd-20210128-103",
+    "venue": "",
+    "year": "None",
+    "link": "https://doi.org/10.31274/rtd-20210128-103"
+  },
+  {
+    "source": "arXiv",
+    "title": "SPPAM: Signature Pattern Prediction and Access-Map Prefetcher",
+    "arxiv_id": "2602.04100v2",
+    "venue": "arXiv preprint",
+    "year": "2026",
+    "link": "https://arxiv.org/abs/2602.04100v2",
+    "summary": "The discrepancy between processor speed and memory system performance continues to limit the performance of many workloads. To address the issue, one effective and well studied technique is cache pref"
+  },
+  {
+    "source": "arXiv",
+    "title": "An Approach to Data Prefetching Using 2-Dimensional Selection Criteria",
+    "arxiv_id": "1505.03899v1",
+    "venue": "arXiv preprint",
+    "year": "2015",
+    "link": "https://arxiv.org/abs/1505.03899v1",
+    "summary": "We propose an approach to data memory prefetching which augments the standard prefetch buffer with selection criteria based on performance and usage pattern of a given instruction. This approach is bu"
+  },
+  {
+    "source": "arXiv",
+    "title": "Pangloss: a novel Markov chain prefetcher",
+    "arxiv_id": "1906.00877v1",
+    "venue": "arXiv preprint",
+    "year": "2019",
+    "link": "https://arxiv.org/abs/1906.00877v1",
+    "summary": "We present Pangloss, an efficient high-performance data prefetcher that approximates a Markov chain on delta transitions. With a limited information scope and space/logic complexity, it is able to rec"
+  },
+  {
+    "source": "arXiv",
+    "title": "Data Cache Prefetching with Perceptron Learning",
+    "arxiv_id": "1712.00905v1",
+    "venue": "arXiv preprint",
+    "year": "2017",
+    "link": "https://arxiv.org/abs/1712.00905v1",
+    "summary": "Cache prefetcher greatly eliminates compulsory cache misses, by fetching data from slower memory to faster cache before it is actually required by processors. Sophisticated prefetchers predict next us"
+  },
+  {
+    "source": "arXiv",
+    "title": "Using Cache-coloring to Mitigate Inter-set Write Variation in Non-volatile Caches",
+    "arxiv_id": "1310.8494v1",
+    "venue": "arXiv preprint",
+    "year": "2013",
+    "link": "https://arxiv.org/abs/1310.8494v1",
+    "summary": "In recent years, researchers have explored use of non-volatile devices such as STT-RAM (spin torque transfer RAM) for designing on-chip caches, since they provide high density and consume low leakage "
+  },
+  {
+    "source": "Crossref",
+    "title": "Nearest Neighbor Query in Fuzzy Graph",
+    "doi": "10.14257/astl.2013.31.40",
+    "venue": "Advances in Multimedia, Communication and Networking",
+    "year": "2013",
+    "link": "https://doi.org/10.14257/astl.2013.31.40"
+  },
+  {
+    "source": "Crossref",
+    "title": "ANN-Cache: Accelerating Approximate Nearest Neighbor Search via Caching",
+    "doi": "10.36227/techrxiv.175339599.94104409/v1",
+    "venue": "",
+    "year": "2025",
+    "link": "https://doi.org/10.36227/techrxiv.175339599.94104409/v1"
+  },
+  {
+    "source": "Crossref",
+    "title": "Adaptive nearest neighbor algorithm on hierarchical weighted-index graph",
+    "doi": "10.58837/chula.the.2009.1078",
+    "venue": "",
+    "year": "None",
+    "link": "https://doi.org/10.58837/chula.the.2009.1078"
+  },
+  {
+    "source": "Crossref",
+    "title": "Figure 16: K-nearest neighbor actual\n                      <i>vs</i>\n                      predicted graph.",
+    "doi": "10.7717/peerj-cs.1987/fig-16",
+    "venue": "",
+    "year": "None",
+    "link": "https://doi.org/10.7717/peerj-cs.1987/fig-16"
+  },
+  {
+    "source": "Crossref",
+    "title": "ANN-Cache: Accelerating Approximate Nearest Neighbor Search Via Caching_supp1-3700562.pdf",
+    "doi": "10.1109/tkde.2026.3700562/mm1",
+    "venue": "",
+    "year": "None",
+    "link": "https://doi.org/10.1109/tkde.2026.3700562/mm1"
+  },
+  {
+    "source": "arXiv",
+    "title": "Magnon excitations in $Cs_2CuAl_4O_8$ - a bond alternating S=1/2 spin chain with next nearest neighbor coupling",
+    "arxiv_id": "1902.04008v1",
+    "venue": "arXiv preprint",
+    "year": "2019",
+    "link": "https://arxiv.org/abs/1902.04008v1",
+    "summary": "A recent density functional theory (DFT) based analysis, complemented with Quantum Monte Carlo calculations revealed a highly spin-frustrating nature of the one-dimensional spin-$\\frac{1}{2}$ compound"
+  },
+  {
+    "source": "arXiv",
+    "title": "Neighborhood Watch: Representation Learning with Local-Margin Triplet Loss and Sampling Strategy for K-Nearest-Neighbor Image Classification",
+    "arxiv_id": "1911.07940v1",
+    "venue": "arXiv preprint",
+    "year": "2019",
+    "link": "https://arxiv.org/abs/1911.07940v1",
+    "summary": "Deep representation learning using triplet network for classification suffers from a lack of theoretical foundation and difficulty in tuning both the network and classifiers for performance. To addres"
+  },
+  {
+    "source": "arXiv",
+    "title": "Active Nearest-Neighbor Learning in Metric Spaces",
+    "arxiv_id": "1605.06792v3",
+    "venue": "arXiv preprint",
+    "year": "2016",
+    "link": "https://arxiv.org/abs/1605.06792v3",
+    "summary": "We propose a pool-based non-parametric active learning algorithm for general metric spaces, called MArgin Regularized Metric Active Nearest Neighbor (MARMANN), which outputs a nearest-neighbor classif"
+  },
+  {
+    "source": "arXiv",
+    "title": "On Nearest Neighbors in Non Local Means Denoising",
+    "arxiv_id": "1711.07568v1",
+    "venue": "arXiv preprint",
+    "year": "2017",
+    "link": "https://arxiv.org/abs/1711.07568v1",
+    "summary": "To denoise a reference patch, the Non-Local-Means denoising filter processes a set of neighbor patches. Few Nearest Neighbors (NN) are used to limit the computational burden of the algorithm. Here her"
+  },
+  {
+    "source": "Crossref",
+    "title": "Near Memory Accelerators for Approximate Nearest Neighbor Search",
+    "doi": "10.37099/mtu.dc.etdr/1961",
+    "venue": "",
+    "year": "None",
+    "link": "https://doi.org/10.37099/mtu.dc.etdr/1961"
+  },
+  {
+    "source": "Crossref",
+    "title": "N2R: Fast and Scalable Approximate k-Nearest Neighbor Search Methods using 'N2' Library",
+    "doi": "10.32614/cran.package.n2r",
+    "venue": "CRAN: Contributed Packages",
+    "year": "2020",
+    "link": "https://doi.org/10.32614/cran.package.n2r"
+  },
+  {
+    "source": "Crossref",
+    "title": "APPROXIMATE NEAREST NEIGHBOR SEARCH FOR THE KULLBACK-LEIBLER DIVERGENCE",
+    "doi": "10.17771/pucrio.acad.33305",
+    "venue": "",
+    "year": "None",
+    "link": "https://doi.org/10.17771/pucrio.acad.33305"
+  },
+  {
+    "source": "Crossref",
+    "title": "Benchmarking approximate nearest neighbor search algorithms in dynamic open-world streaming environments",
+    "doi": "10.32657/10356/215209",
+    "venue": "",
+    "year": "None",
+    "link": "https://doi.org/10.32657/10356/215209"
+  },
+  {
+    "source": "Crossref",
+    "title": "Efficient approximate nearest neighbor search for hybrid vector and large-k queries",
+    "doi": "10.32657/10356/210724",
+    "venue": "",
+    "year": "None",
+    "link": "https://doi.org/10.32657/10356/210724"
+  },
+  {
+    "source": "arXiv",
+    "title": "I/O Optimizations for Graph-Based Disk-Resident Approximate Nearest Neighbor Search: A Design Space Exploration",
+    "arxiv_id": "2602.21514v2",
+    "venue": "arXiv preprint",
+    "year": "2026",
+    "link": "https://arxiv.org/abs/2602.21514v2",
+    "summary": "Approximate nearest neighbor (ANN) search on SSD-backed indexes is increasingly I/O-bound (I/O accounts for 70--90\\% of query latency). We present an I/O-first framework for disk-based ANN that organi"
+  },
+  {
+    "source": "arXiv",
+    "title": "Subspace Approximation for Approximate Nearest Neighbor Search in NLP",
+    "arxiv_id": "1708.07775v1",
+    "venue": "arXiv preprint",
+    "year": "2017",
+    "link": "https://arxiv.org/abs/1708.07775v1",
+    "summary": "Most natural language processing tasks can be formulated as the approximated nearest neighbor search problem, such as word analogy, document similarity, machine translation. Take the question-answerin"
+  },
+  {
+    "source": "arXiv",
+    "title": "Approximate Nearest Neighbor Search with Window Filters",
+    "arxiv_id": "2402.00943v2",
+    "venue": "arXiv preprint",
+    "year": "2024",
+    "link": "https://arxiv.org/abs/2402.00943v2",
+    "summary": "We define and investigate the problem of $\\textit{c-approximate window search}$: approximate nearest neighbor search where each point in the dataset has a numeric label, and the goal is to find neares"
+  },
+  {
+    "source": "Crossref",
+    "title": "Performance Optimization of Dijkstra and A* Search Algorithms Using Cache ? Aware Graph Structures",
+    "doi": "10.21275/sr26123032635",
+    "venue": "International Journal of Science and Research (IJSR)",
+    "year": "2026",
+    "link": "https://doi.org/10.21275/sr26123032635"
+  },
+  {
+    "source": "Crossref",
+    "title": "Improvement Of Cache Memory Performance By Reducing Cache Miss Rate And Miss Penalty",
+    "doi": "10.35778/1742-000-052-021",
+    "venue": "\u0645\u062c\u0644\u0629 \u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0632\u064a\u062a\u0648\u0646\u0629",
+    "year": "2024",
+    "link": "https://doi.org/10.35778/1742-000-052-021"
+  },
+  {
+    "source": "Crossref",
+    "title": "Achieving Zero Cache-Miss based on the Control Flow Graph",
+    "doi": "10.1109/mi-sta52233.2021.9464397",
+    "venue": "2021 IEEE 1st International Maghreb Meeting of the Conference on Sciences and Techniques of Automatic Control and Computer Engineering MI-STA",
+    "year": "2021",
+    "link": "https://doi.org/10.1109/mi-sta52233.2021.9464397"
+  },
+  {
+    "source": "Crossref",
+    "title": "Saber: Sequential Access Based cachE Replacement to Reduce the Cache Miss Penalty",
+    "doi": "10.1109/icycs.2008.342",
+    "venue": "2008 The 9th International Conference for Young Computer Scientists",
+    "year": "2008",
+    "link": "https://doi.org/10.1109/icycs.2008.342"
+  },
+  {
+    "source": "Crossref",
+    "title": "AstraeaDB: Client for the 'AstraeaDB' Graph Database",
+    "doi": "10.32614/cran.package.astraeadb",
+    "venue": "CRAN: Contributed Packages",
+    "year": "2026",
+    "link": "https://doi.org/10.32614/cran.package.astraeadb"
+  },
+  {
+    "source": "arXiv",
+    "title": "Toward Efficient and Scalable Design of In-Memory Graph-Based Vector Search",
+    "arxiv_id": "2509.05750v1",
+    "venue": "arXiv preprint",
+    "year": "2025",
+    "link": "https://arxiv.org/abs/2509.05750v1",
+    "summary": "Vector data is prevalent across business and scientific applications, and its popularity is growing with the proliferation of learned embeddings. Vector data collections often reach billions of vector"
+  },
+  {
+    "source": "arXiv",
+    "title": "Efficient Graph-based Word Sense Induction by Distributional Inclusion Vector Embeddings",
+    "arxiv_id": "1804.03257v2",
+    "venue": "arXiv preprint",
+    "year": "2018",
+    "link": "https://arxiv.org/abs/1804.03257v2",
+    "summary": "Word sense induction (WSI), which addresses polysemy by unsupervised discovery of multiple word senses, resolves ambiguities for downstream NLP tasks and also makes word representations more interpret"
+  },
+  {
+    "source": "arXiv",
+    "title": "Dynamic cache reconfiguration based techniques for improving cache energy efficiency",
+    "arxiv_id": "1310.4231v1",
+    "venue": "arXiv preprint",
+    "year": "2013",
+    "link": "https://arxiv.org/abs/1310.4231v1",
+    "summary": "Modern multicore processors are employing large last-level caches, for example Intel's E7-8800 processor uses 24MB L3 cache. Further, with each CMOS technology generation, leakage energy has been dram"
+  },
+  {
+    "source": "arXiv",
+    "title": "dKV-Cache: The Cache for Diffusion Language Models",
+    "arxiv_id": "2505.15781v1",
+    "venue": "arXiv preprint",
+    "year": "2025",
+    "link": "https://arxiv.org/abs/2505.15781v1",
+    "summary": "Diffusion Language Models (DLMs) have been seen as a promising competitor for autoregressive language models. However, diffusion language models have long been constrained by slow inference. A core ch"
+  },
+  {
+    "source": "Crossref",
+    "title": "Cache and Memory Hierarchy Design",
+    "doi": "10.1016/c2009-0-27582-9",
+    "venue": "",
+    "year": "1990",
+    "link": "https://doi.org/10.1016/c2009-0-27582-9"
+  },
+  {
+    "source": "Crossref",
+    "title": "Dedication",
+    "doi": "10.1016/b978-0-08-050059-1.50003-7",
+    "venue": "Cache and Memory Hierarchy Design",
+    "year": "1990",
+    "link": "https://doi.org/10.1016/b978-0-08-050059-1.50003-7"
+  },
+  {
+    "source": "Crossref",
+    "title": "Performance-Directed Cache Design",
+    "doi": "10.1016/b978-0-08-050059-1.50009-8",
+    "venue": "Cache and Memory Hierarchy Design",
+    "year": "1990",
+    "link": "https://doi.org/10.1016/b978-0-08-050059-1.50009-8"
+  },
+  {
+    "source": "Crossref",
+    "title": "Copyright",
+    "doi": "10.1016/b978-0-08-050059-1.50002-5",
+    "venue": "Cache and Memory Hierarchy Design",
+    "year": "1990",
+    "link": "https://doi.org/10.1016/b978-0-08-050059-1.50002-5"
+  },
+  {
+    "source": "Crossref",
+    "title": "Multi-Level Cache Hierarchies",
+    "doi": "10.1016/b978-0-08-050059-1.50010-4",
+    "venue": "Cache and Memory Hierarchy Design",
+    "year": "1990",
+    "link": "https://doi.org/10.1016/b978-0-08-050059-1.50010-4"
+  },
+  {
+    "source": "arXiv",
+    "title": "Efficient Vector Search on Disaggregated Memory with d-HNSW",
+    "arxiv_id": "2505.11783v1",
+    "venue": "arXiv preprint",
+    "year": "2025",
+    "link": "https://arxiv.org/abs/2505.11783v1",
+    "summary": "Efficient vector query processing is critical to enable AI applications at scale. Recent solutions struggle with growing vector datasets that exceed single-machine memory capacity, forcing unnecessary"
+  },
+  {
+    "source": "arXiv",
+    "title": "SHINE: A Scalable HNSW Index in Disaggregated Memory",
+    "arxiv_id": "2507.17647v1",
+    "venue": "arXiv preprint",
+    "year": "2025",
+    "link": "https://arxiv.org/abs/2507.17647v1",
+    "summary": "Approximate nearest neighbor (ANN) search is a fundamental problem in computer science for which in-memory graph-based methods, such as Hierarchical Navigable Small World (HNSW), perform exceptionally"
+  },
+  {
+    "source": "arXiv",
+    "title": "Memory Hierarchy Design for Caching Middleware in the Age of NVM",
+    "arxiv_id": "2506.05071v1",
+    "venue": "arXiv preprint",
+    "year": "2025",
+    "link": "https://arxiv.org/abs/2506.05071v1",
+    "summary": "Advances in storage technology have introduced Non-Volatile Memory, NVM, as a new storage medium. NVM, along with Dynamic Random Access Memory (DRAM), Solid State Disk (SSD), and Disk present a system"
+  },
+  {
+    "source": "Crossref",
+    "title": "Search Engine Caching and Prefetching",
+    "doi": "10.1007/springerreference_65717",
+    "venue": "SpringerReference",
+    "year": "None",
+    "link": "https://doi.org/10.1007/springerreference_65717"
+  },
+  {
+    "source": "Crossref",
+    "title": "Web Search Result Caching and Prefetching",
+    "doi": "10.1007/springerreference_63575",
+    "venue": "SpringerReference",
+    "year": "None",
+    "link": "https://doi.org/10.1007/springerreference_63575"
+  },
+  {
+    "source": "Crossref",
+    "title": "Data prefetching by dependence graph precomputation",
+    "doi": "10.1109/isca.2001.937432",
+    "venue": "Proceedings 28th Annual International Symposium on Computer Architecture",
+    "year": "None",
+    "link": "https://doi.org/10.1109/isca.2001.937432"
+  },
+  {
+    "source": "arXiv",
+    "title": "ConStore: Search-Overlapped Prefetch and Co-Retrieval-Aware Content Storage for Disk-Based ANNS",
+    "arxiv_id": "2610.21676v1",
+    "venue": "arXiv preprint",
+    "year": "2026",
+    "link": "https://arxiv.org/abs/2610.21676v1",
+    "summary": "Disk-based approximate nearest-neighbor search (ANNS) supports retrieval-augmented generation (RAG), search, recommendation, and advertising over corpora that exceed memory capacity. Existing ANNS res"
+  },
+  {
+    "source": "arXiv",
+    "title": "Counting cliques without generalized theta graphs",
+    "arxiv_id": "2311.15289v2",
+    "venue": "arXiv preprint",
+    "year": "2023",
+    "link": "https://arxiv.org/abs/2311.15289v2",
+    "summary": "The \\textit{generalized Tur\u00e1n number} $\\mathrm{ex}(n, T, F)$ is the maximum possible number of copies of $T$ in an $F$-free graph on $n$ vertices for any two graphs $T$ and $F$. For the book graph $B_"
+  }
+]
