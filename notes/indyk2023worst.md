@@ -1,7 +1,7 @@
 # indyk2023worst — Worst-case Performance of Popular Approximate Nearest Neighbor Search Implementations: Guarantees and Limitations
 Authors / Year / Venue / DOI: Piotr Indyk, Haike Xu / 2023 / Advances in Neural Information Processing Systems 36 (NeurIPS 2023) / 10.52202/075280-2891 (arXiv:2310.19126)
 Status: PUB (NeurIPS 2023)
-PDF: papers/indyk2023worst.pdf   Read fully: yes
+PDF: papers/indyk2023worst.pdf   Read fully: main body read in full (pp. 1–9); supplementary proofs (pp. 11–17) surveyed for formal mechanics, not read line-by-line.
 
 ## Problem addressed (p.)
 Worst-case theoretical guarantees and algorithmic limitations of popular proximity graph indexes (DiskANN/Vamana, HNSW, and NSG) (p. 1-3, §1). While prior theoretical analyses focused on average-case random data (e.g., uniform spherical distributions), this paper investigates worst-case performance under adversarial or clustered metric configurations with bounded doubling dimension.

@@ -1,7 +1,7 @@
 # prokhorenkova2020graph — Graph-based Nearest Neighbor Search: From Practice to Theory
 Authors / Year / Venue / DOI: Liudmila Prokhorenkova, Aleksandr Shekhovtsov / 2020 / Proceedings of the 37th International Conference on Machine Learning (ICML 2020), PMLR 119:7803-7813 / arXiv:1907.00845
 Status: PUB (ICML 2020, PMLR 119)
-PDF: papers/prokhorenkova2020graph.pdf   Read fully: yes
+PDF: papers/prokhorenkova2020graph.pdf   Read fully: main body read in full (pp. 1–8); supplementary proofs (pp. 12–31) surveyed for formal mechanics, not read line-by-line.
 
 ## Problem addressed (p.)
 Theoretical foundations and complexity guarantees of graph-based approximate nearest neighbor search (NNS) algorithms, specifically analyzing greedy search, long-range links, and beam search on proximity graphs for points uniformly distributed on a $d$-dimensional sphere $S^d$ (p. 1-3, §1-§3). Prior works established state-of-the-art empirical performance (e.g., HNSW, NSW) but lacked rigorous mathematical performance bounds on query path length, convergence, and degree trade-offs.

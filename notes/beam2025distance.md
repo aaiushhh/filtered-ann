@@ -1,7 +1,7 @@
 # beam2025distance — Distance Adaptive Beam Search for Provably Accurate Graph-Based Nearest Neighbor Search
 Authors / Year / Venue / DOI: Al-Jazzazi, Yousef, Diwan, Haya, Gou, Jinrui, Musco, Cameron, Musco, Christopher, Suel, Torsten / 2025 / NeurIPS 2025 (Advances in Neural Information Processing Systems 38) / 10.52202/085713-3346
 Status: PUB
-PDF: papers/beam2025distance.pdf   Read fully: yes
+PDF: papers/beam2025distance.pdf   Read fully: main body read in full (pp. 1–10); appendix proofs (pp. 13–22) surveyed for formal mechanics, not read line-by-line.
 
 ## Problem addressed (p.)
 Addressing the theory-practice gap in graph-based approximate nearest neighbor search (ANNS); standard beam search parameterized by a fixed beam width $b$ lacks formal approximation guarantees on navigable graphs and enforces a rigid stopping condition that cannot adapt to variable query difficulty (p. 1–3).

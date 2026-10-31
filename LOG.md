@@ -132,3 +132,9 @@
   - notes/diwan2024navigable.md:
     * BEFORE: Theorem 13 (Maximum Degree Bound, p. 25, Appendix C)
       AFTER:  Theorem 13 (Maximum Degree Lower Bound, §4.3, PDF p. 10 / printed p. 10)
+
+[2026-10-31 16:21:00 +05:30] AUDIT_PASS_SNOWBALL_THEOREMS:
+  - Audited all 32 snowball rows in manifest.csv: 15 rows active in notes/ and refs.bib (100% verified against live records); 3 quarantined as "UNVERIFIED - DO NOT USE" (ren2020hmann, xu2024multifilterann, zuo2023arkgraph); 2 paywalled in manual_download.md; 12 un-annotated candidate rows safely un-cited.
+  - Verified exact theorem statements from raw PDF text for indyk2023worst, diwan2024navigable, and prokhorenkova2020graph.
+  - Corrected locators in notes/diwan2024navigable.md (Theorem 4, Claim 5, Definition 6, Claim 7, Claim 8, Claim 9 updated from p. 6 to p. 7).
+  - Explicitly qualified "Read fully" headers in notes/diwan2024navigable.md, notes/indyk2023worst.md, notes/prokhorenkova2020graph.md, and notes/beam2025distance.md to distinguish main paper text (read in full) from supplementary mathematical proofs in appendices.
