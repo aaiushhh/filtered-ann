@@ -1,0 +1,61 @@
+{
+  "test_1_post_filter_recall_1_0": {
+    "status": "PASS",
+    "mean_recall": 1.0,
+    "queries_tested": 30,
+    "efSearch": 1000,
+    "details": "efSearch = N guaranteed 100% recall matching exact brute-force ground truth across all tested queries."
+  },
+  "test_2_amq_exact_matches_exact": {
+    "status": "PASS",
+    "queries_tested": 25,
+    "mismatches": 0,
+    "details": "AMQ structure configured as exact set returned 100% identical top-10 IDs and distances."
+  },
+  "test_3_fpr_within_theoretical_tolerance": {
+    "status": "PASS",
+    "comparisons": [
+      {
+        "bits_per_entry": 8.0,
+        "k_hashes": 6,
+        "n_members": 20000,
+        "n_probes": 100000,
+        "theoretical_fpr": 0.021577141463219263,
+        "empirical_fpr": 0.02055,
+        "diff": 0.0010271414632192638,
+        "four_sigma_tolerance": 0.0018378930732551547,
+        "within_tolerance": true
+      },
+      {
+        "bits_per_entry": 10.0,
+        "k_hashes": 7,
+        "n_members": 20000,
+        "n_probes": 100000,
+        "theoretical_fpr": 0.008193722065862417,
+        "empirical_fpr": 0.00783,
+        "diff": 0.00036372206586241657,
+        "four_sigma_tolerance": 0.0011402866295502944,
+        "within_tolerance": true
+      },
+      {
+        "bits_per_entry": 12.0,
+        "k_hashes": 8,
+        "n_members": 20000,
+        "n_probes": 100000,
+        "theoretical_fpr": 0.003142350345702593,
+        "empirical_fpr": 0.00305,
+        "diff": 9.235034570259301e-05,
+        "four_sigma_tolerance": 0.0007079520865151773,
+        "within_tolerance": true
+      }
+    ],
+    "details": "All measured empirical false-positive rates matched Bloom theoretical formulas within 4-sigma binomial confidence intervals."
+  },
+  "test_4_fixed_seed_reproducibility": {
+    "status": "PASS",
+    "seed_tested": 12345,
+    "ids_identical": true,
+    "distances_identical": true,
+    "details": "Running index construction and filtered query search with identical fixed seed produced 100% bitwise identical results."
+  }
+}

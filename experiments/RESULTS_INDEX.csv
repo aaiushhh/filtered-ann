@@ -1,0 +1,2 @@
+run_id,exp_id,date,git_hash,config_hash,raw_path,status
+run_E0_env_gt_correctness,E0,2026-10-31,2426c235c3b736e0069b7663f4c31d052c443148,1fe4af11af23de82,experiments/results/E0/env.json,PASS

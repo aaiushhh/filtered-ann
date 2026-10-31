@@ -34,3 +34,8 @@ desktop.ini
 .idea/
 *.swp
 *.swo
+
+# 5. Experiments Data & Parquet
+experiments/data/*
+!experiments/data/MANIFEST.json
+*.parquet
