@@ -1,0 +1,10 @@
+N,sigma,structure,variant,est_memory_bytes,limit_bytes,reason
+1000000000,0.001,attribute_array,uint32,4000000000,3977804000,"Structure memory (4000 MB) exceeds 50% RAM limit (3790 MB)"
+1000000000,0.01,attribute_array,uint32,4000000000,3977804000,"Structure memory (4000 MB) exceeds 50% RAM limit (3790 MB)"
+1000000000,0.1,attribute_array,uint32,4000000000,3977804000,"Structure memory (4000 MB) exceeds 50% RAM limit (3790 MB)"
+1000000000,0.1,xor,8bit,123000094,3977804000,"Build peak memory (4859 MB) exceeds 50% RAM limit (3790 MB)"
+1000000000,0.1,xor,16bit,246000124,3977804000,"Build peak memory (4982 MB) exceeds 50% RAM limit (3790 MB)"
+1000000000,0.5,attribute_array,uint32,4000000000,3977804000,"Structure memory (4000 MB) exceeds 50% RAM limit (3790 MB)"
+1000000000,0.5,hash_set,open_addressing,4294967296,3977804000,"Structure memory (4294 MB) exceeds 50% RAM limit (3790 MB)"
+1000000000,0.5,xor,8bit,615000094,3977804000,"Build peak memory (24295 MB) exceeds 50% RAM limit (3790 MB)"
+1000000000,0.5,xor,16bit,1230000124,3977804000,"Build peak memory (24910 MB) exceeds 50% RAM limit (3790 MB)"

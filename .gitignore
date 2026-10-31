@@ -39,3 +39,20 @@ desktop.ini
 experiments/data/*
 !experiments/data/MANIFEST.json
 *.parquet
+
+# 6. C/C++ Compiled Binaries
+*.o
+*.a
+*.so
+*.exe
+*.out
+experiments/harness/run_e1_benchmarks
+experiments/harness/timer_noise
+tools/check_cpus
+tools/diagnose_timer
+tools/test_bucket12
+tools/test_cmp
+tools/test_structures
+tools/test_xor
+tools/timer_noise_cpp
+

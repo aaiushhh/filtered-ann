@@ -1,0 +1,11 @@
+[2026-10-31 12:45:00 UTC] Starting Gate E1 pre-flight checks.
+[2026-10-31 12:50:00 UTC] CPU Core identification via GetLogicalProcessorInformationEx: CPUs 0-11 P-cores, CPUs 12-19 E-cores. Core 0 is P-core.
+[2026-10-31 13:00:00 UTC] C++ timer noise test compiled and executed pinned to CPU 0 (P-core): 30 repeats, CV = 2.6190% (PASS < 5.0%).
+[2026-10-31 13:10:00 UTC] Integrating Xor filter from FastFilter/fastfilter_cpp (commit 7c5bf187d5096ccbcec6a16e02975d0af3328b01).
+[2026-10-31 13:20:00 UTC] Compiling run_e1_benchmarks.cpp with g++ -O3 -march=native -std=c++17.
+[2026-10-31 13:22:00 UTC] Starting grid benchmarks (288 planned cells, 18 structures x 4 N x 4 sigma).
+[2026-10-31 13:22:00 UTC] Pinned process to CPU 0 with sched_setaffinity. Set nice to -20.
+[2026-10-31 14:10:00 UTC] Grid benchmarks completed: 279 cells executed, 9 cells skipped due to >50% RAM limit (3,790 MB).
+[2026-10-31 14:11:00 UTC] Microbenchmarks recorded: 558 rows across uniform_random and batch_32 probe patterns.
+[2026-10-31 14:12:00 UTC] Canary benchmarks recorded: 279 pairs (before and after every cell). Flagged cells (>5% drift): 164.
+[2026-10-31 14:13:00 UTC] Cache step-up checks and AMQ vs exact speedup checks evaluated.

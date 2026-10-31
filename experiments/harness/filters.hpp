@@ -77,6 +77,59 @@ public:
     }
 };
 
+// Open-addressing Hash Set with linear probing
+class OpenAddressingHashSet {
+public:
+    static constexpr uint32_t EMPTY_KEY = 0xFFFFFFFF;
+    size_t capacity;
+    size_t mask;
+    size_t count;
+    std::vector<uint32_t> table;
+
+    OpenAddressingHashSet(size_t max_items = 0) {
+        init(max_items);
+    }
+
+    void init(size_t max_items) {
+        count = 0;
+        if (max_items == 0) {
+            capacity = 16;
+        } else {
+            // Target load factor <= 0.70
+            size_t cap = 16;
+            while (cap * 0.70 < max_items) {
+                cap <<= 1;
+            }
+            capacity = cap;
+        }
+        mask = capacity - 1;
+        table.assign(capacity, EMPTY_KEY);
+    }
+
+    void insert(uint32_t val) {
+        size_t idx = hash64(val) & mask;
+        while (table[idx] != EMPTY_KEY) {
+            if (table[idx] == val) return;
+            idx = (idx + 1) & mask;
+        }
+        table[idx] = val;
+        count++;
+    }
+
+    bool contains(uint32_t val) const {
+        size_t idx = hash64(val) & mask;
+        while (table[idx] != EMPTY_KEY) {
+            if (table[idx] == val) return true;
+            idx = (idx + 1) & mask;
+        }
+        return false;
+    }
+
+    size_t size_in_bytes() const {
+        return table.size() * sizeof(uint32_t) + sizeof(OpenAddressingHashSet);
+    }
+};
+
 // ============================================================================
 // 2. Standard Bloom Filter
 // ============================================================================

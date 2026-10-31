@@ -1,0 +1,35 @@
+experiment: E1
+name: filter_structure_microbenchmarks
+parameters:
+  N: [1000000, 10000000, 100000000, 1000000000]
+  sigma: [0.001, 0.01, 0.1, 0.5]
+  structures:
+    - name: bitmap
+      bits_per_entry: 1
+    - name: attribute_array
+      variant: uint32
+    - name: hash_set
+      variant: open_addressing
+    - name: bloom
+      bits_per_entry: [6, 8, 10, 12, 16]
+    - name: blocked_bloom
+      block_size_bits: 512
+      bits_per_entry: [6, 8, 10, 12, 16]
+    - name: cuckoo
+      fingerprint_bits: [8, 12, 16]
+    - name: xor
+      fingerprint_bits: [8, 16]
+  probe_patterns:
+    - uniform_random
+    - batch_32
+  probes_per_test: 10000000
+  fpr_probes_per_test: 10000000
+  pinned_cpu: 0
+  core_type: P-core
+  memory_limit_bytes: 3977804000  # 50% of 7.6 GB RAM
+  canary:
+    structure: bitmap
+    N: 1000000
+    probes: 10000000
+    pattern: uniform_random
+    drift_flag_threshold: 0.05
