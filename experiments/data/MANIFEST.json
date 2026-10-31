@@ -514,5 +514,10 @@
     "queries_matched": 100,
     "second_implementation": "NumPy manual Euclidean distance with full boolean masking",
     "status": "PASS"
+  },
+  "gist1m": {
+    "source_url": "http://ann-benchmarks.com/gist-960-euclidean.hdf5",
+    "hdf5_sha256": "8e95831936bfdbfa0a56086942e2cf98cd703517c67f985914183eb4cdbf026a",
+    "hdf5_size_bytes": 3844648288
   }
 }
